@@ -1,0 +1,23 @@
+<!-- The boring stuff -->
+<!DOCTYPE html>
+<html>
+	<head> <link href="public/style.css" rel="stylesheet">
+	<meta charset="UTF-8">
+	<title>TITLE HERE</title>
+	<meta name="description" content="DESCRIBE YOUR WEBSITE">
+	<meta name="keywords" content="KEY, WORDS, HERE">
+    
+ <!-- Link code to the CSS file> -->
+
+
+
+	</head>
+	<body>
+		<h1>liv matthews</h1>
+    <ol> olivia matthews fav stuff
+      <li> beaches</li>
+      <li> good food </li>
+      <li> golden retreviers /all good dogs</li>
+      
+    </ol></body> 
+</html>
